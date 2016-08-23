@@ -1,0 +1,8 @@
+(C) copyright Fraunhofer - IIS (1998) All Rights Reserved
+
+filename: l3table.cpp
+project : ISO/MPEG-Decoder
+author  : Martin Sieler
+date    : 1998-05-26
+contents/description: tables for iso/mpeg-decoder (layer3)
+

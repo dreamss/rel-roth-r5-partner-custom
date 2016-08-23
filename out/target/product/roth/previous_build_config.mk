@@ -1,0 +1,1 @@
+PREVIOUS_BUILD_CONFIG := thor-userdebug-{en_US,in_ID,ca_ES,cs_CZ,da_DK,de_DE,en_GB,es_ES,es_US,tl_PH,fr_FR,hr_HR,it_IT,lv_LV,lt_LT,hu_HU,nl_NL,nb_NO,pl_PL,pt_BR,pt_PT,ro_RO,sk_SK,sl_SI,fi_FI,sv_SE,vi_VN,tr_TR,el_GR,bg_BG,ru_RU,sr_RS,uk_UA,iw_IL,ar_EG,fa_IR,th_TH,ko_KR,zh_CN,zh_TW,ja_JP,mdpi,hdpi,xhdpi,sw320dp,sw340dp,sw360dp,sw380dp,sw540dp,small,normal,nodpi}
